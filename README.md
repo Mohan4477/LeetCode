@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohan4477/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3636-check-balanced-string](https://github.com/Mohan4477/LeetCode/tree/master/3636-check-balanced-string) |
 ## Sliding Window
 |  |
 | ------- |
